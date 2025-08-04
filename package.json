@@ -1,0 +1,11 @@
+{
+  "name": "n8n-bassel1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "n8n": "^1.40.0"
+  }
+}
