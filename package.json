@@ -1,10 +1,12 @@
 {
-  "name": "n8n-app",
+  "name": "n8n-bassel",
   "version": "1.0.0",
+  "description": "Self-hosted n8n on Render",
+  "main": "index.js",
   "scripts": {
     "start": "n8n start"
   },
   "dependencies": {
-    "n8n": "^1.68.2"
+    "n8n": "^1.70.0"
   }
 }
